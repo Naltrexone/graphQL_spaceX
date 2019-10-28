@@ -1,0 +1,19 @@
+{
+  "name": "graphql_spacex",
+  "version": "1.0.0",
+  "description": "app built with graQL, React, Apollo",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Naltrexone/graphQL_spaceX.git"
+  },
+  "author": "Divya Mohanan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Naltrexone/graphQL_spaceX/issues"
+  },
+  "homepage": "https://github.com/Naltrexone/graphQL_spaceX#readme"
+}
