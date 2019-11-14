@@ -1,7 +1,7 @@
 {
-  "name": "youtube_graphql",
+  "name": "graphql_spaceX",
   "version": "1.0.0",
-  "description": "youtube tutorial for graphql,react,apollo",
+  "description": "built from tutorial for graphql,react,apollo",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
